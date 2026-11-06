@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maisonreddam/static/css/main.384bb3fc.css",
+    "main.js": "/maisonreddam/static/js/main.cc93bc86.js",
+    "index.html": "/maisonreddam/index.html",
+    "main.384bb3fc.css.map": "/maisonreddam/static/css/main.384bb3fc.css.map",
+    "main.cc93bc86.js.map": "/maisonreddam/static/js/main.cc93bc86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384bb3fc.css",
+    "static/js/main.cc93bc86.js"
+  ]
+}
